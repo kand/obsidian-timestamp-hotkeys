@@ -1,0 +1,10 @@
+{
+  "id": "timestamp-hotkeys",
+  "name": "Timestamp Hotkeys",
+  "version": "0.0.1",
+  "minAppVersion": "0.13.11",
+  "description": "Timestamp hotkeys for quick logging.",
+  "author": "Andrew Kos <akos123@gmail.com>",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
